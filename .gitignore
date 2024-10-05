@@ -1,0 +1,23 @@
+# Ignore Visual Studio files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore Intermediate, Binaries, Saved, and DerivedDataCache directories
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore config files
+.vscode/
+*.VC.db
+
+# Ignore certain Unreal Engine files
+*.log
+*.obj
+*.pdb
+*.exe
+*.ilk
+*.meta
